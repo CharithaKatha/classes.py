@@ -1,0 +1,17 @@
+example1:
+letters=["a","b","c","d"]
+print(letters[0:3])
+print(letters[0:])
+example2:
+mylist=["apple","mango","orange","grapes"]
+print(mylist[-1])
+print(mylist[-1:-3])
+example3:
+tuple=("p","y","t","h","o","n")
+tuple[0:3]
+tuple[-2:-5]
+example4:
+my_list1=["10","20","30","40","50"]
+print(my_list1[-4]
+print(my_list1[0:4]
+
